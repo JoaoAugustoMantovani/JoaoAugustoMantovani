@@ -1,4 +1,4 @@
-<h1 align="left">Hello, welcome to my profile! 👋 Eu amo mamar sorrindo</h1>
+<h1 align="left">Hello, welcome to my profile! 👋</h1>
 
 ###
 
